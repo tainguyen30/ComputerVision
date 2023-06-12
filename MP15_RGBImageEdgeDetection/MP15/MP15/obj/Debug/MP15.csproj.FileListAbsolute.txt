@@ -1,0 +1,11 @@
+E:\vs2022\MP15\MP15\obj\Debug\MP15.csproj.AssemblyReference.cache
+E:\vs2022\MP15\MP15\obj\Debug\MP15.csproj.SuggestedBindingRedirects.cache
+E:\vs2022\MP15\MP15\obj\Debug\MP15.Form1.resources
+E:\vs2022\MP15\MP15\obj\Debug\MP15.Properties.Resources.resources
+E:\vs2022\MP15\MP15\obj\Debug\MP15.csproj.GenerateResource.cache
+E:\vs2022\MP15\MP15\obj\Debug\MP15.csproj.CoreCompileInputs.cache
+E:\vs2022\MP15\MP15\bin\Debug\MP15.exe.config
+E:\vs2022\MP15\MP15\bin\Debug\MP15.exe
+E:\vs2022\MP15\MP15\bin\Debug\MP15.pdb
+E:\vs2022\MP15\MP15\obj\Debug\MP15.exe
+E:\vs2022\MP15\MP15\obj\Debug\MP15.pdb

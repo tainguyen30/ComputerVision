@@ -1,0 +1,21 @@
+E:\vs2022\MP12\MP12\obj\Debug\MP12.csproj.AssemblyReference.cache
+E:\vs2022\MP12\MP12\obj\Debug\MP12.csproj.SuggestedBindingRedirects.cache
+E:\vs2022\MP12\MP12\obj\Debug\MP12.Form1.resources
+E:\vs2022\MP12\MP12\obj\Debug\MP12.Properties.Resources.resources
+E:\vs2022\MP12\MP12\obj\Debug\MP12.csproj.GenerateResource.cache
+E:\vs2022\MP12\MP12\obj\Debug\MP12.csproj.CoreCompileInputs.cache
+E:\vs2022\MP12\MP12\bin\Debug\MP12.exe.config
+E:\vs2022\MP12\MP12\bin\Debug\MP12.exe
+E:\vs2022\MP12\MP12\bin\Debug\MP12.pdb
+E:\vs2022\MP12\MP12\obj\Debug\MP12.exe
+E:\vs2022\MP12\MP12\obj\Debug\MP12.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\bin\Debug\MP12.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\bin\Debug\MP12.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\bin\Debug\MP12.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\obj\Debug\MP12.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\obj\Debug\MP12.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\obj\Debug\MP12.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\obj\Debug\MP12.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\obj\Debug\MP12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\obj\Debug\MP12.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MP12\MP12\obj\Debug\MP12.pdb

@@ -1,0 +1,32 @@
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.AssemblyReference.cache
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.SuggestedBindingRedirects.cache
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.Form1.resources
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.Properties.Resources.resources
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.GenerateResource.cache
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.CoreCompileInputs.cache
+C:\MV\mini_project_11\mini_project_11\bin\Debug\mini_project_11.exe.config
+C:\MV\mini_project_11\mini_project_11\bin\Debug\mini_project_11.exe
+C:\MV\mini_project_11\mini_project_11\bin\Debug\mini_project_11.pdb
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.exe
+C:\MV\mini_project_11\mini_project_11\obj\Debug\mini_project_11.pdb
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.AssemblyReference.cache
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.SuggestedBindingRedirects.cache
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.Form1.resources
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.Properties.Resources.resources
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.GenerateResource.cache
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.CoreCompileInputs.cache
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.exe
+C:\MV\Week3\mini_project_11\mini_project_11\obj\Debug\mini_project_11.pdb
+C:\MV\Week3\mini_project_11\mini_project_11\bin\Debug\mini_project_11.exe.config
+C:\MV\Week3\mini_project_11\mini_project_11\bin\Debug\mini_project_11.exe
+C:\MV\Week3\mini_project_11\mini_project_11\bin\Debug\mini_project_11.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\bin\Debug\mini_project_11.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\bin\Debug\mini_project_11.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\bin\Debug\mini_project_11.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\obj\Debug\mini_project_11.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\obj\Debug\mini_project_11.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\obj\Debug\mini_project_11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\obj\Debug\mini_project_11.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_11\mini_project_11\mini_project_11\obj\Debug\mini_project_11.pdb

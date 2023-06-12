@@ -1,0 +1,30 @@
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csproj.AssemblyReference.cache
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csproj.SuggestedBindingRedirects.cache
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.Form1.resources
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.Properties.Resources.resources
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csproj.GenerateResource.cache
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csproj.CoreCompileInputs.cache
+C:\MV\Week4\mini_project_13\mini_project_13\bin\Debug\mini_project_13.exe.config
+C:\MV\Week4\mini_project_13\mini_project_13\bin\Debug\mini_project_13.exe
+C:\MV\Week4\mini_project_13\mini_project_13\bin\Debug\mini_project_13.pdb
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.exe
+C:\MV\Week4\mini_project_13\mini_project_13\obj\Debug\mini_project_13.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\bin\Debug\mini_project_13.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\bin\Debug\mini_project_13.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\bin\Debug\mini_project_13.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.pdb
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\bin\Debug\mini_project_13.exe.config
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\bin\Debug\mini_project_13.exe
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\bin\Debug\mini_project_13.pdb
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.Form1.resources
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.Properties.Resources.resources
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.exe
+C:\Users\Admin\Documents\Tai Lieu UTE\XLA\Projects\mini_project_13\mini_project_13\mini_project_13\obj\Debug\mini_project_13.pdb

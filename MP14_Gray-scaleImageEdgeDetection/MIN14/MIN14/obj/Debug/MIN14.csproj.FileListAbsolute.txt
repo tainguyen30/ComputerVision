@@ -1,0 +1,33 @@
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\bin\Debug\MIN14.exe.config
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\bin\Debug\MIN14.exe
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\bin\Debug\MIN14.pdb
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.csproj.AssemblyReference.cache
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.Form1.resources
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.Properties.Resources.resources
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.csproj.GenerateResource.cache
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.csproj.CoreCompileInputs.cache
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.exe
+C:\Users\THANHTRONG\source\repos\Mini_project01\mini_project 1\MIN14\MIN14\obj\Debug\MIN14.pdb
+E:\vs2022\MP14\MIN14\MIN14\bin\Debug\MIN14.exe.config
+E:\vs2022\MP14\MIN14\MIN14\bin\Debug\MIN14.exe
+E:\vs2022\MP14\MIN14\MIN14\bin\Debug\MIN14.pdb
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.csproj.AssemblyReference.cache
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.csproj.SuggestedBindingRedirects.cache
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.Form1.resources
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.Properties.Resources.resources
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.csproj.GenerateResource.cache
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.csproj.CoreCompileInputs.cache
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.exe
+E:\vs2022\MP14\MIN14\MIN14\obj\Debug\MIN14.pdb
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\bin\Debug\MIN14.exe.config
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\bin\Debug\MIN14.exe
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\bin\Debug\MIN14.pdb
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.csproj.AssemblyReference.cache
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.csproj.SuggestedBindingRedirects.cache
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.Form1.resources
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.Properties.Resources.resources
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.csproj.GenerateResource.cache
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.csproj.CoreCompileInputs.cache
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.exe
+D:\UTEX\HK2 2022-2023\Thị Giác Máy\Mini Project\14\MIN14\MIN14\obj\Debug\MIN14.pdb

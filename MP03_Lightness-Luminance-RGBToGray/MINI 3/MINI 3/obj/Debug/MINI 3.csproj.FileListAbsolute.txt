@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\obj\Debug\MINI 3.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\obj\Debug\MINI_3.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\obj\Debug\MINI_3.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\obj\Debug\MINI 3.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\obj\Debug\MINI 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\bin\Debug\MINI 3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\bin\Debug\MINI 3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\bin\Debug\MINI 3.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\obj\Debug\MINI 3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\MINI 3\MINI 3\obj\Debug\MINI 3.pdb
